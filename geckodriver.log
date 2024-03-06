@@ -1,0 +1,932 @@
+1651144723157	geckodriver	INFO	Listening on 127.0.0.1:62167
+1651144726218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "user-data-dir=C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "62168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\055KHO~1\\AppData\\Local\\Temp\\rust_mozprofile3OzE1C"
+1651144727358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\055KHO~1\\AppData\\Local\\Temp\\rust_mozprofile3OzE1C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62168/devtools/browser/808d340b-f4ab-4330-9bae-ab726890ae95
+1651144729855	Marionette	INFO	Listening on port 62195
+Read port: 62195
+1651144729957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1651144746401	Marionette	INFO	Stopped listening on port 62195
+1651145288432	geckodriver	INFO	Listening on 127.0.0.1:62420
+1651145291509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "user-data-dir=C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "62421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\055KHO~1\\AppData\\Local\\Temp\\rust_mozprofileJksgDZ"
+1651145291788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\055KHO~1\\AppData\\Local\\Temp\\rust_mozprofileJksgDZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62421/devtools/browser/b10dcdbf-8ce4-447b-a5f4-c7ded54224a6
+1651145293327	Marionette	INFO	Listening on port 62446
+Read port: 62446
+1651145293415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1651145304872	Marionette	INFO	Stopped listening on port 62446
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651146437032	geckodriver	INFO	Listening on 127.0.0.1:63047
+1651146440084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "user-data-dir=C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "63048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\055KHO~1\\AppData\\Local\\Temp\\rust_mozprofileVkB6aS"
+1651146440464	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\055KHO~1\\AppData\\Local\\Temp\\rust_mozprofileVkB6aS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63048/devtools/browser/b1e6c84b-ad70-44e7-aa9c-cbded8689095
+1651146441829	Marionette	INFO	Listening on port 63074
+Read port: 63074
+1651146441860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-6.js, line 17: unreachable code after return statement
+1651146458124	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651146458124	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://c86be393-5d29-4e1b-9ac2-95848575a3a1/ui-6.js, line 17: unreachable code after return statement
+1651146504896	Marionette	INFO	Stopped listening on port 63074
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651146548968	geckodriver	INFO	Listening on 127.0.0.1:63133
+1651146552019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "user-data-dir=C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "63134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\055KHO~1\\AppData\\Local\\Temp\\rust_mozprofileRqTKA5"
+1651146552254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\055KHO~1\\AppData\\Local\\Temp\\rust_mozprofileRqTKA5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63134/devtools/browser/d0d33cb5-897a-4370-9fd8-f779dbb9e43a
+1651146553690	Marionette	INFO	Listening on port 63162
+Read port: 63162
+1651146553766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: moz-extension://a4e1d7a6-4d5a-4a86-b3ce-32ed177cb48d/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://a4e1d7a6-4d5a-4a86-b3ce-32ed177cb48d/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://a4e1d7a6-4d5a-4a86-b3ce-32ed177cb48d/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://a4e1d7a6-4d5a-4a86-b3ce-32ed177cb48d/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://a4e1d7a6-4d5a-4a86-b3ce-32ed177cb48d/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://a4e1d7a6-4d5a-4a86-b3ce-32ed177cb48d/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://a4e1d7a6-4d5a-4a86-b3ce-32ed177cb48d/ui-6.js, line 17: unreachable code after return statement
+1651146603299	Marionette	INFO	Stopped listening on port 63162
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651147162331	geckodriver	INFO	Listening on 127.0.0.1:63415
+1651147223994	geckodriver	INFO	Listening on 127.0.0.1:63425
+1651147227056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "63426" "--remote-allow-hosts" "localhost" "-no-remote"
+1651147227287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63426/devtools/browser/231b2a0c-018d-443e-aacd-7949bcba72d7
+1651147228922	Marionette	INFO	Listening on port 2828
+1651147229110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+1651147282281	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651147523631	geckodriver	INFO	Listening on 127.0.0.1:63575
+1651147526686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "63576" "--remote-allow-hosts" "localhost" "-no-remote"
+1651147526866	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63576/devtools/browser/7ce812de-a2e2-4995-84f1-fafd13bfaa76
+1651147527349	Marionette	INFO	Listening on port 2828
+1651147527706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+1651147553092	Marionette	INFO	Stopped listening on port 2828
+1651147562995	geckodriver	INFO	Listening on 127.0.0.1:63677
+1651147566058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "63678" "--remote-allow-hosts" "localhost" "-no-remote"
+1651147566218	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63678/devtools/browser/8b52c415-1f2c-446e-9662-4f16603015a4
+1651147566670	Marionette	INFO	Listening on port 2828
+1651147567079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+1651147625818	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147625924	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147626031	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147626141	Marionette	WARN	Connection attempt denied because an active s[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-28T12:07:10Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+enied because an active session has been found
+1651147626464	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147626573	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147626680	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147626789	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147626897	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147627007	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147627121	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147627228	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147627337	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147627446	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147627556	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147627662	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147627771	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147627879	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147627987	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147628097	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147628205	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147628315	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147628424	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147628531	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147628640	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147628748	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147628857	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147628965	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147629072	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147629181	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147629288	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147629397	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147629504	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147629614	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147629721	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147629830	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147629937	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147630047	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147630154	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147630262	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147630371	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147630478	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147630586	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147630695	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147630803	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147630913	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147631020	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147631127	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147631236	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147631344	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147631452	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147631560	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147631668	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147631776	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147631882	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147631989	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147632098	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147632206	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147632314	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147632422	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147632529	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147632637	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147632745	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147632853	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147632964	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147633075	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147633182	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147633290	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147633398	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147633507	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147633616	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147633725	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147633834	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147633941	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147634051	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147634159	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147634262	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147634371	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147634481	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147634589	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147634695	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147634802	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147634911	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147635020	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147635127	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147635231	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147635341	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147635448	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147635549	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147635657	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147635766	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147635873	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147635982	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147636090	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147636199	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147636307	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147636415	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147636522	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147636630	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147636739	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147636847	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147636955	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147637064	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147637172	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147637280	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147637388	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147637497	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147637605	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147637711	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147637819	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147637927	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147638035	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147638145	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147638252	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147638362	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147638471	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147638578	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147638686	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147638795	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147638902	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147639009	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147639118	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147639232	Marionette	WARN	Connection attempt denied because an active session has been found
+Exiting due to channel error.
+Exiting due to channel error.
+1651147682590	geckodriver	INFO	Listening on 127.0.0.1:63898
+1651147685660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "63899" "--remote-allow-hosts" "localhost" "-no-remote"
+1651147685822	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63899/devtools/browser/d474b181-f627-453c-b36f-ac71f4c96cc9
+1651147686241	Marionette	INFO	Listening on port 2828
+1651147686688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+1651147696783	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651147696829	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651147696875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651147733574	geckodriver	INFO	Listening on 127.0.0.1:63942
+1651147736646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "63943" "--remote-allow-hosts" "localhost" "-no-remote"
+1651147736810	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63943/devtools/browser/8c3787ee-9581-4018-9f18-612b40b02480
+1651147737275	Marionette	INFO	Listening on port 2828
+1651147737665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+1651147747461	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651147747508	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651147747540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 1: TypeError: this.state is null
+1651147767143	Marionette	INFO	Stopped listening on port 2828
+1651147767167	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651147835462	geckodriver	INFO	Listening on 127.0.0.1:63988
+1651147838530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "63989" "--remote-allow-hosts" "localhost" "-no-remote"
+1651147838689	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63989/devtools/browser/47ab34bc-c16f-49d2-a21f-41a763b630c8
+1651147839149	Marionette	INFO	Listening on port 2828
+1651147839549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+1651147849806	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651147849852	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651147849914	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651147962011	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147962125	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147962235	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147962343	Marionette	WARN	Connection attempt denied because an active s[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-28T12:12:47Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+enied because an active session has been found
+1651147962671	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147962779	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147962887	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147962996	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147963105	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147963214	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147963322	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147963432	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147963540	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147963648	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147963756	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147963863	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147963972	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147964081	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147964189	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147964299	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147964407	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147964516	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147964624	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147964733	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147964842	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147964950	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147965058	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147965166	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147965274	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147965382	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147965489	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147965597	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147965705	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147965813	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147965921	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147966030	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147966138	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147966246	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147966354	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147966462	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147966570	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147966678	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147966786	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147966894	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147967003	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147967111	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147967221	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147967329	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147967437	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147967544	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147967651	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147967760	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147967866	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147967975	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147968084	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147968192	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147968300	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147968408	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147968516	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147968623	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147968732	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147968840	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147968948	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147969055	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147969167	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147969276	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147969383	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147969491	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147969600	Marionette	WARN	Connection attempt denied because an active session has been found
+1651147969709	Marionette	WARN	Connection attempt denied because an active session has been found
+1651148093899	geckodriver	INFO	Listening on 127.0.0.1:64158
+1651148096961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "64159" "--remote-allow-hosts" "localhost" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-28T12:15:02Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651148174189	geckodriver	INFO	Listening on 127.0.0.1:64274
+1651148177258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "64275" "--remote-allow-hosts" "localhost" "-no-remote"
+1651148177418	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:64275/devtools/browser/9967ad39-21a3-4ebb-a989-fc7ab6e04853
+1651148177841	Marionette	INFO	Listening on port 2828
+1651148178271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+1651148214118	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651148214118	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://28b9dee3-f9d9-4ef0-ab0c-427c9156faa7/ui-6.js, line 17: unreachable code after return statement
+1651148223234	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651148232022	geckodriver	INFO	Listening on 127.0.0.1:64323
+1651148235082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "64324" "--remote-allow-hosts" "localhost" "-no-remote"
+1651148235245	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:64324/devtools/browser/f1b73867-4c42-477b-b2ce-346693567f6c
+1651148235674	Marionette	INFO	Listening on port 2828
+1651148236103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651148263352	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651148272277	geckodriver	INFO	Listening on 127.0.0.1:64365
+1651148275341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "64366" "--remote-allow-hosts" "localhost" "-no-remote"
+1651148275606	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:64366/devtools/browser/3a26ead8-a74e-48fb-82fe-ec646861b362
+1651148276413	Marionette	INFO	Listening on port 2828
+1651148276869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651148342682	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651148354960	geckodriver	INFO	Listening on 127.0.0.1:64407
+1651148358015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "64408" "--remote-allow-hosts" "localhost" "-no-remote"
+1651148358176	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:64408/devtools/browser/e259f283-c9ed-4d9e-94b7-00d859239344
+1651148358638	Marionette	INFO	Listening on port 2828
+1651148359040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651148403134	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651148416151	geckodriver	INFO	Listening on 127.0.0.1:64447
+1651148419219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "64448" "--remote-allow-hosts" "localhost" "-no-remote"
+1651148419381	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:64448/devtools/browser/bc3e497b-88f2-42a9-91e9-6c96e429ae62
+1651148419836	Marionette	INFO	Listening on port 2828
+1651148420253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651148459210	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651148459210	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651148474486	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 17612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PRemoteWorkerService::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1651148536123	geckodriver	INFO	Listening on 127.0.0.1:64495
+1651148539171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "64496" "--remote-allow-hosts" "localhost" "-no-remote"
+1651148539335	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:64496/devtools/browser/a2ae0298-5e29-4b8f-a659-f0c4d3562205
+1651148539790	Marionette	INFO	Listening on port 2828
+1651148540186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651148605810	Marionette	INFO	Stopped listening on port 2828
+[Parent 12072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 12072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651148624671	geckodriver	INFO	Listening on 127.0.0.1:64632
+1651148627746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "64633" "--remote-allow-hosts" "localhost" "-no-remote"
+1651148627912	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:64633/devtools/browser/815e4721-ebc3-4b25-aba8-43c70768789d
+1651148628464	Marionette	INFO	Listening on port 2828
+1651148628773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651148694027	geckodriver	INFO	Listening on 127.0.0.1:64914
+1651148697083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "64915" "--remote-allow-hosts" "localhost" "-no-remote"
+1651148697289	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:64915/devtools/browser/660f4e95-fea9-4050-8ea0-b66574659a56
+1651148697912	Marionette	INFO	Listening on port 2828
+1651148698095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651148793731	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651148827035	geckodriver	INFO	Listening on 127.0.0.1:65013
+1651148830092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "65014" "--remote-allow-hosts" "localhost" "-no-remote"
+1651148830530	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:65014/devtools/browser/2c626520-f4e4-4d6f-b6e0-ed39d1a96591
+1651148830989	Marionette	INFO	Listening on port 2828
+1651148831111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651149217458	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651149223030	geckodriver	INFO	Listening on 127.0.0.1:65385
+1651149226077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "65386" "--remote-allow-hosts" "localhost" "-no-remote"
+1651149226315	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:65386/devtools/browser/5fddf652-7b17-45b6-a869-f17959b721e4
+1651149226829	Marionette	INFO	Listening on port 2828
+1651149227099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651149244568	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1651149276306	geckodriver	INFO	Listening on 127.0.0.1:65440
+1651149279353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "65441" "--remote-allow-hosts" "localhost" "-no-remote"
+1651149279523	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:65441/devtools/browser/25d6e135-81b2-4d2c-b1f6-52e8a8ba18c2
+1651149280061	Marionette	INFO	Listening on port 2828
+1651149280381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651149315102	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651149315102	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651149324243	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651149324244	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651149329304	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651149329304	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+1651149333958	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651149342441	geckodriver	INFO	Listening on 127.0.0.1:65523
+1651149345471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "65524" "--remote-allow-hosts" "localhost" "-no-remote"
+1651149345633	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:65524/devtools/browser/87537f8c-08b4-4c0d-ae68-7ae8c088d537
+1651149346095	Marionette	INFO	Listening on port 2828
+1651149346498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df/ui-6.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://09ff71b7-8b15-43a1-bffa-b00bd24972df"
+1651149390526	Marionette	INFO	Stopped listening on port 2828
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651149396115	geckodriver	INFO	Listening on 127.0.0.1:49200
+1651149399172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "49201" "--remote-allow-hosts" "localhost" "-no-remote"
+1651149399366	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:49201/devtools/browser/86b619e9-062d-4747-9895-e734cc5a2978
+1651149399818	Marionette	INFO	Listening on port 2828
+1651149400183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-6.js, line 17: unreachable code after return statement
+1651149412642	Marionette	INFO	Stopped listening on port 2828
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651149568154	geckodriver	INFO	Listening on 127.0.0.1:49274
+1651149571202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "49275" "--remote-allow-hosts" "localhost" "-no-remote"
+1651149571375	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:49275/devtools/browser/9b4c9ffd-8464-4a36-bac1-13ce9cb987ac
+1651149571851	Marionette	INFO	Listening on port 2828
+1651149572221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-6.js, line 17: unreachable code after return statement
+1651149636764	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651215189741	geckodriver	INFO	Listening on 127.0.0.1:49918
+1651215192846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile" "C:\\Users\\055khodunay\\Desktop\\BetFuryBotProject\\Data_profiles\\profile_1" "--remote-debugging-port" "49919" "--remote-allow-hosts" "localhost" "-no-remote"
+1651215195072	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:49919/devtools/browser/4446f345-8202-4bc0-b876-7686fd428802
+1651215197988	Marionette	INFO	Listening on port 2828
+1651215198141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/background-4.js, line 1: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-5.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-6.js, line 17: unreachable code after return statement
+JavaScript warning: moz-extension://e0b74a25-6bc8-4c45-980e-b7d35938ce54/ui-6.js, line 17: unreachable code after return statement
